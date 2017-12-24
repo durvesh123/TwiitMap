@@ -11,8 +11,8 @@ from elasticsearch import Elasticsearch
 #Variables that contains the user credentials to access Twitter API
 access_token = "2801190920-AwZu0nx9BBCVtgLKjD8BpQTLo7M2iep9ZyGRtQM"
 access_token_secret = "0CLyy2Hc5M9mSrdxLcoM82naXZg7IAFgZCEvuUt14lN4s"
-consumer_key = "OprOyK4w52gjgMVXJpYKV6DC2"
-consumer_secret = "Ue3MaWMnr5fMsLZJUbhnppT7C1HGuz7stkpyvhuhE0EPTlHzSw"
+consumer_key = ""
+consumer_secret = ""
 
 
 
